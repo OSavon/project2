@@ -14,3 +14,4 @@ if __name__ == "__main__":
     x = 1.5
     result = evaluate_polynomial(coeffs, x)
     print(y"Polynomial value at x={x}: {result}")
+    print(f"Polynomial value at x={x}")
